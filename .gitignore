@@ -1,0 +1,26 @@
+# Build output
+/build/
+/bin/
+/obj/
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# Debugger output
+*.dSYM/
+*.su
+*.gcda
+*.gcno
+*.gcov
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VS Code workspace configuration
+.vscode/
